@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family Poppinsight@200) 300 400 500 600 700 display-swap');
+
+.bg-container{
+    background-image: url("https://images4.alphacoders.com/549/5498.jpg");
+    height: 100vh;
+    background-size: cover; 
+    font-weight:bold;
+}
